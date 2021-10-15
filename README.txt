@@ -1,0 +1,1 @@
+A simple solution to storage data in your python project using json tables and collections.
